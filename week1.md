@@ -1,4 +1,4 @@
-- 26. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+- ##### 26. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 
 ```javascript
 /**
@@ -29,7 +29,7 @@ var removeDuplicates = function (nums) {
 };
 ```
 
-- 189. [旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+- ##### 189. [旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 
 ```javascript
 /**
@@ -58,4 +58,4 @@ var rotate = function (nums, k) {
 1. 翻转 k 个元素，即 nums 中后 k 个元素会被翻转到数组前面
 2.
 
-- 21. [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- ##### 21. [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
